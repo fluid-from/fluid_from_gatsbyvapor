@@ -1,0 +1,71 @@
+{
+  "_from": "gatsby-plugin-algolia",
+  "_id": "gatsby-plugin-algolia@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-fM+Kmk0O5/m8/40I2AiILdTkn8YYRsKACpgdS5z/AwE9zXZ2uCKDadWljLZ5iynmFn84f/gNNvZsuyKlOtjOtw==",
+  "_location": "/gatsby-plugin-algolia",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gatsby-plugin-algolia",
+    "name": "gatsby-plugin-algolia",
+    "escapedName": "gatsby-plugin-algolia",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gatsby-plugin-algolia/-/gatsby-plugin-algolia-1.0.3.tgz",
+  "_shasum": "d90335f7d962bc212620a7b9629a298199f54dd7",
+  "_spec": "gatsby-plugin-algolia",
+  "_where": "/Users/gimjeonghyeon/Desktop/개인 작업/페미로그/개편완료/fluid_from_ver2_gatsby-vapor-master",
+  "author": {
+    "name": "Algolia"
+  },
+  "bugs": {
+    "url": "https://github.com/algolia/gatsby-plugin-algolia/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "algoliasearch": "^4.9.1",
+    "lodash.chunk": "^4.2.0"
+  },
+  "deprecated": false,
+  "description": "A gatsby plugin to push to Algolia based on a certain query",
+  "devDependencies": {
+    "gatsby": "^5.0.0",
+    "standard-version": "^4.4.0"
+  },
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "files": [
+    "index.js",
+    "gatsby-node.js"
+  ],
+  "homepage": "https://github.com/algolia/gatsby-plugin-algolia#readme",
+  "keywords": [
+    "gatsby",
+    "search",
+    "graphql",
+    "algolia",
+    "gatsby-plugin"
+  ],
+  "license": "Apache-2.0",
+  "name": "gatsby-plugin-algolia",
+  "peerDependencies": {
+    "gatsby": "^2.0.0 || ^3.0.0 || ^4.0.0 || ^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algolia/gatsby-plugin-algolia.git"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "version": "1.0.3"
+}
