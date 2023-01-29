@@ -1,5 +1,5 @@
 ---
-title: 공정의 대안을 
+title: 공정의 대안을 찾아서 
 date: 
 tags: [시민권, 노동, 공정]
 description: 
