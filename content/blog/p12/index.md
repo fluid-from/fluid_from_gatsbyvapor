@@ -1,5 +1,5 @@
 ---
-title: <WK><T><E> 올랭프 드 구주
+title: 공정의 대안을 
 date: 
 tags: [시민권, 노동, 공정]
 description: 
